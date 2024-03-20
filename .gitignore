@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+SlotModule/Library
+SlotModule/Temp/Burst/burst-aot1w6ne751.baw/lib_burst_generated_part_89425a97f3f500fa810ad03f0c382542.gbc
+SlotModule/Temp/
+SlotModule/Logs/Packages-Update.log
+SlotModule/Logs/
+SlotModule/.vscode/
